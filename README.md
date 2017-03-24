@@ -19,4 +19,6 @@ contanct me: lidong@usc.edu
 
 Core Folder: Data preprocessing, Sentiment Analysis, SVR Prediction
 
-SVR Tool Reference:http://svmlight.joachims.org/
+SVM Tool Reference:
+svmlight:	http://svmlight.joachims.org/
+libsvm:		https://www.csie.ntu.edu.tw/~cjlin/libsvm/
